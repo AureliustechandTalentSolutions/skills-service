@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SkillTree Service"
+abstract: "SkillTree is a micro-learning gamification platform providing out-of-the-box UI visualizations, convenient client integration libraries, and a dashboard for managing the creation and administration of Gamified Training Profiles."
+type: software
+authors:
+  - name: "National Security Agency"
+    country: US
+  - name: "Aurelius Tech and Talent Solutions"
+repository-code: "https://github.com/AureliustechandTalentSolutions/skills-service"
+url: "https://code.nsa.gov/skills-docs/"
+license: Apache-2.0
+version: "3.10.0-SNAPSHOT"
+date-released: "2025-10-05"
+keywords:
+  - gamification
+  - micro-learning
+  - training
+  - skills-management
+  - education
+  - learning-platform
+  - dashboard
+  - visualization
+programming-languages:
+  - Java
+  - JavaScript
+  - Groovy
+  - Vue.js

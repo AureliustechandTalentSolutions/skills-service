@@ -1,0 +1,80 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "SkillTree Service",
+  "description": "SkillTree is a micro-learning gamification platform providing out-of-the-box UI visualizations, convenient client integration libraries, and a dashboard for managing the creation and administration of Gamified Training Profiles.",
+  "identifier": "skills-service",
+  "codeRepository": "https://github.com/AureliustechandTalentSolutions/skills-service",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "version": "3.10.0-SNAPSHOT",
+  "programmingLanguage": [
+    "Java",
+    "JavaScript",
+    "Groovy",
+    "Vue.js"
+  ],
+  "runtimePlatform": [
+    "Java 19",
+    "Node.js v14.21.3",
+    "Spring Boot 3.5.6"
+  ],
+  "operatingSystem": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "keywords": [
+    "gamification",
+    "micro-learning",
+    "training",
+    "skills-management",
+    "education",
+    "learning-platform",
+    "dashboard",
+    "visualization"
+  ],
+  "applicationCategory": [
+    "Education",
+    "Training",
+    "Gamification Platform"
+  ],
+  "readme": "https://github.com/AureliustechandTalentSolutions/skills-service/blob/master/README.md",
+  "issueTracker": "https://github.com/AureliustechandTalentSolutions/skills-service/issues",
+  "contIntegration": "https://github.com/AureliustechandTalentSolutions/skills-service/actions",
+  "developmentStatus": "active",
+  "maintainer": {
+    "@type": "Organization",
+    "name": "Aurelius Tech and Talent Solutions"
+  },
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "National Security Agency"
+    },
+    {
+      "@type": "Organization",
+      "name": "Aurelius Tech and Talent Solutions"
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Organization",
+      "name": "SkillTree Community"
+    }
+  ],
+  "dateCreated": "2020-01-01",
+  "dateModified": "2025-10-05",
+  "buildInstructions": "https://github.com/AureliustechandTalentSolutions/skills-service/blob/master/README.md",
+  "softwareRequirements": [
+    "Java JDK 19+",
+    "Maven 3.6+",
+    "Node.js 14+",
+    "PostgreSQL or MySQL (for production)"
+  ],
+  "releaseNotes": "https://github.com/AureliustechandTalentSolutions/skills-service/releases",
+  "referencePublication": "https://code.nsa.gov/skills-docs/",
+  "funding": {
+    "@type": "Grant",
+    "name": "U.S. Federal Government"
+  }
+}

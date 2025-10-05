@@ -17,3 +17,18 @@ These pages provide in-depth guidance on installation, usage and contribution.
 [![Continuous Integration with OAuth](https://github.com/NationalSecurityAgency/skills-service/actions/workflows/build-and-test-oauth.yml/badge.svg)](https://github.com/NationalSecurityAgency/skills-service/actions/workflows/build-and-test-oauth.yml)
 
 [![Continuous Integration with Email Confirmation Enabled](https://github.com/NationalSecurityAgency/skills-service/actions/workflows/build-and-test-email-confirmation.yml/badge.svg)](https://github.com/NationalSecurityAgency/skills-service/actions/workflows/build-and-test-email-confirmation.yml)
+
+# Resource Library Integration
+
+This repository is cataloged in the Aurelius Federal Platform Resource Library. The following metadata files provide comprehensive information about this software:
+
+- **[codemeta.json](codemeta.json)** - Standard software metadata following the [CodeMeta](https://codemeta.github.io/) specification
+- **[CITATION.cff](CITATION.cff)** - Citation information in [Citation File Format](https://citation-file-format.github.io/)
+- **[resource-library.json](resource-library.json)** - Aurelius Platform-specific resource catalog metadata
+
+These files contain detailed information about:
+- Software architecture and technical specifications
+- Dependencies and runtime requirements
+- Features and use cases
+- Security and compliance information
+- Documentation and support resources
