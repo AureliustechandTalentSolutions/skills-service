@@ -1,0 +1,142 @@
+{
+  "resourceLibrary": {
+    "platform": "Aurelius Federal Platform",
+    "resourceType": "Software Application",
+    "catalogEntry": {
+      "id": "skills-service",
+      "name": "SkillTree Service",
+      "shortName": "SkillTree",
+      "description": "SkillTree is a micro-learning gamification platform providing out-of-the-box UI visualizations, convenient client integration libraries, and a dashboard for managing the creation and administration of Gamified Training Profiles.",
+      "version": "3.10.0-SNAPSHOT",
+      "status": "Active",
+      "classification": {
+        "category": "Education & Training",
+        "subcategory": "Learning Management System",
+        "type": "Gamification Platform"
+      },
+      "technicalDetails": {
+        "architecture": "Microservices",
+        "primaryLanguages": [
+          "Java",
+          "JavaScript",
+          "Groovy",
+          "Vue.js"
+        ],
+        "frameworks": [
+          "Spring Boot 3.5.6",
+          "Vue.js 3.5.17",
+          "PrimeVue 4.3.5"
+        ],
+        "runtime": {
+          "javaVersion": "19",
+          "nodeVersion": "14.21.3"
+        },
+        "database": [
+          "PostgreSQL",
+          "MySQL"
+        ]
+      },
+      "repository": {
+        "url": "https://github.com/AureliustechandTalentSolutions/skills-service",
+        "type": "git",
+        "branch": "master",
+        "license": "Apache-2.0"
+      },
+      "documentation": {
+        "official": "https://code.nsa.gov/skills-docs/",
+        "readme": "https://github.com/AureliustechandTalentSolutions/skills-service/blob/master/README.md",
+        "wiki": "https://github.com/AureliustechandTalentSolutions/skills-service/wiki"
+      },
+      "ownership": {
+        "originalAuthor": "National Security Agency",
+        "currentMaintainer": "Aurelius Tech and Talent Solutions",
+        "governmentAffiliation": "U.S. Federal Government",
+        "clearanceRequired": false,
+        "publicAccess": true
+      },
+      "deployment": {
+        "deploymentOptions": [
+          "Standalone",
+          "Docker",
+          "Kubernetes"
+        ],
+        "supportedPlatforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "minimumRequirements": {
+          "cpu": "2 cores",
+          "memory": "4GB RAM",
+          "storage": "10GB"
+        }
+      },
+      "features": [
+        "Micro-learning gamification",
+        "Out-of-the-box UI visualizations",
+        "Client integration libraries",
+        "Administrative dashboard",
+        "Skill catalog management",
+        "User progress tracking",
+        "Achievement system",
+        "Role-based access control",
+        "OAuth integration",
+        "Email notifications",
+        "Real-time updates via WebSockets",
+        "Metrics and reporting"
+      ],
+      "useCases": [
+        "Corporate training programs",
+        "Educational institutions",
+        "Government training initiatives",
+        "Skill development tracking",
+        "Compliance training",
+        "Professional development"
+      ],
+      "integrations": [
+        "OAuth 2.0",
+        "SAML 2.0",
+        "REST API",
+        "WebSockets",
+        "Client libraries (JavaScript, Vue, React)"
+      ],
+      "security": {
+        "authentication": [
+          "OAuth 2.0",
+          "SAML 2.0",
+          "Username/Password"
+        ],
+        "authorization": "Role-based access control (RBAC)",
+        "dataProtection": "HTTPS/TLS",
+        "compliance": [
+          "Apache 2.0 License",
+          "U.S. Federal Government Compatible"
+        ]
+      },
+      "support": {
+        "issueTracker": "https://github.com/AureliustechandTalentSolutions/skills-service/issues",
+        "communityForum": "GitHub Discussions",
+        "documentation": "https://code.nsa.gov/skills-docs/",
+        "continuousIntegration": "GitHub Actions"
+      },
+      "metadata": {
+        "createdDate": "2020-01-01",
+        "lastUpdated": "2025-10-05",
+        "catalogAddedDate": "2025-10-05",
+        "tags": [
+          "gamification",
+          "micro-learning",
+          "training",
+          "skills-management",
+          "education",
+          "learning-platform",
+          "federal",
+          "open-source",
+          "java",
+          "vue",
+          "spring-boot"
+        ]
+      }
+    }
+  }
+}
